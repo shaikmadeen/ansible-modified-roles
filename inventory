@@ -1,2 +1,2 @@
 [mongodb]
- ansible_host: mangodb.devops.online
+ ansible_host= mangodb.devops.online
