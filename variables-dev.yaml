@@ -1,0 +1,10 @@
+MONGODB_HOST: 10.0.1.50  # submit your host
+REDIS_HOST: 10.0.1.59
+#MYSQL_HOST: mysql-dev.daws76s.online 
+RABBITMQ_HOST: 10.0.1.46
+CATALOGUE_HOST: 10.0.1.193
+USER_HOST: 10.0.1.72
+CART_HOST: 10.0.1.150
+SHIPPING_HOST: 10.0.1.122
+#PAYMENT_HOST: payment-dev.daws76s.online 
+#DISPATCH_HOST: dispatch-dev.daws76s.online 

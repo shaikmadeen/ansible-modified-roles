@@ -1,2 +1,6 @@
 [mongodb]
- host_domain=mangodb.devops.online
+10.0.1.50
+
+[catalogue]
+10.0.1.193
+
